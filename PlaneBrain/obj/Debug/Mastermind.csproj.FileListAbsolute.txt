@@ -1,0 +1,43 @@
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\bin\Debug\PlaneBrain.exe.config
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\bin\Debug\PlaneBrain.exe
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\bin\Debug\PlaneBrain.pdb
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.csprojResolveAssemblyReference.cache
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\App.g.cs
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain_MarkupCompile.cache
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain_MarkupCompile.lref
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.g.resources
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.Properties.Resources.resources
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.csproj.GenerateResource.Cache
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.exe
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.pdb
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\GameWindow.g.cs
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\GameWindow.baml
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\OptionsWindow.g.cs
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\OptionsWindow.baml
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\GuessControl.g.cs
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\GuessControl.baml
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\SolutionControl.g.cs
+C:\Users\Sofie\Desktop\PlaneBrain\PlaneBrain\obj\Debug\SolutionControl.baml
+D:\Source Code\PlaneBrain\PlaneBrain\bin\Debug\PlaneBrain.exe.config
+D:\Source Code\PlaneBrain\PlaneBrain\bin\Debug\PlaneBrain.exe
+D:\Source Code\PlaneBrain\PlaneBrain\bin\Debug\PlaneBrain.pdb
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\Mastermind.csprojAssemblyReference.cache
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\GameWindow.g.cs
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\GuessControl.g.cs
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\OptionsWindow.g.cs
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\SolutionControl.g.cs
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\App.g.cs
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain_MarkupCompile.cache
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain_MarkupCompile.lref
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\GameWindow.baml
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\GuessControl.baml
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\OptionsWindow.baml
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\SolutionControl.baml
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.g.resources
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.Properties.Resources.resources
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\Mastermind.csproj.GenerateResource.cache
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.exe
+D:\Source Code\PlaneBrain\PlaneBrain\obj\Debug\PlaneBrain.pdb
